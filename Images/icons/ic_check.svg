@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="11px" viewBox="0 0 14 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.75 12.1275 3.6225 9 2.5575 10.0575 6.75 14.25 15.75 5.25 14.6925 4.1925"></polygon>
+        <rect id="path-3" x="0" y="0" width="38" height="38"></rect>
+    </defs>
+    <g id="host-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Host-info-1" transform="translate(-179.000000, -827.000000)">
+            <g id="rooms-and-facilities" transform="translate(112.000000, 637.000000)">
+                <g id="falicities-1" transform="translate(65.000000, 179.000000)">
+                    <g id="ic_check" transform="translate(0.000000, 7.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="Colors/Black" mask="url(#mask-2)">
+                            <g transform="translate(-9.750000, -9.750000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Black" stroke="none" fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

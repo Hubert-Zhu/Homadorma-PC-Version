@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_local_dining</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.1,13.34 L10.93,10.51 L3.91,3.5 C2.35,5.06 2.35,7.59 3.91,9.16 L8.1,13.34 L8.1,13.34 Z M14.88,11.53 C16.41,12.24 18.56,11.74 20.15,10.15 C22.06,8.24 22.43,5.5 20.96,4.03 C19.5,2.57 16.76,2.93 14.84,4.84 C13.25,6.43 12.75,8.58 13.46,10.11 L3.7,19.87 L5.11,21.28 L12,14.41 L18.88,21.29 L20.29,19.88 L13.41,13 L14.88,11.53 L14.88,11.53 Z" id="path-1"></path>
+    </defs>
+    <g id="host-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Host-info-1" transform="translate(-114.000000, -1280.000000)">
+            <g id="meals" transform="translate(112.000000, 1221.000000)">
+                <g id="ic_local_dining" transform="translate(0.000000, 56.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Colors/Gray" mask="url(#mask-2)" fill="#BEBEBE" fill-rule="evenodd">
+                        <g transform="translate(-13.000000, -13.000000)" id="Colors/Your_color_2">
+                            <path d="M0,0 L50,0 L50,50 L0,50 L0,0 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

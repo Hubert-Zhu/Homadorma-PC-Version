@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="30px" viewBox="0 0 19 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_chevron_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="25 15 21.475 18.525 32.925 30 21.475 41.475 25 45 40 30"></polygon>
+    </defs>
+    <g id="host-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Host-info-2" transform="translate(-958.000000, -343.000000)">
+            <g id="photos" transform="translate(0.000000, 70.000000)">
+                <g id="arrows" transform="translate(27.000000, 258.000000)">
+                    <g id="ic_chevron_right" transform="translate(910.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="Colors/Orange" mask="url(#mask-2)" fill="#E64A19" fill-rule="evenodd">
+                            <g transform="translate(-32.500000, -32.500000)" id="Colors/Your_color_1">
+                                <path d="M0,0 L125,0 L125,125 L0,125 L0,0 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

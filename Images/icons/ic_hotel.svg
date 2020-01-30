@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_hotel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,13 C8.66,13 10,11.66 10,10 C10,8.34 8.66,7 7,7 C5.34,7 4,8.34 4,10 C4,11.66 5.34,13 7,13 L7,13 Z M19,7 L11,7 L11,14 L3,14 L3,5 L1,5 L1,20 L3,20 L3,17 L21,17 L21,20 L23,20 L23,11 C23,8.79 21.21,7 19,7 L19,7 Z" id="path-1"></path>
+    </defs>
+    <g id="host-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Host-info-1" transform="translate(-113.000000, -691.000000)">
+            <g id="rooms-and-facilities" transform="translate(112.000000, 637.000000)">
+                <g id="ic_hotel" transform="translate(0.000000, 49.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Colors/Gray" mask="url(#mask-2)" fill="#BEBEBE" fill-rule="evenodd">
+                        <g transform="translate(-13.000000, -13.000000)" id="Colors/Your_color_2">
+                            <path d="M0,0 L50,0 L50,50 L0,50 L0,0 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
