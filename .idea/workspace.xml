@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f454af7-22b2-42ff-95a5-1dec32254471" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Host photos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Host photos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Host photos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Host photos/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Self web trial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -20,6 +26,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,6 +53,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images/Host photos" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -79,7 +87,7 @@
       <workItem from="1580408429580" duration="484000" />
       <workItem from="1580426025592" duration="562000" />
       <workItem from="1580427941430" duration="3171000" />
-      <workItem from="1580432098580" duration="4049000" />
+      <workItem from="1580432098580" duration="6626000" />
     </task>
     <servers />
   </component>
