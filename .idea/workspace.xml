@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f454af7-22b2-42ff-95a5-1dec32254471" name="Default Changelist" comment="" />
+    <list default="true" id="5f454af7-22b2-42ff-95a5-1dec32254471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WIooagvKV4IU1mGOy7Io1ULfsh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,8 +35,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -68,6 +78,8 @@
       <workItem from="1580407052052" duration="760000" />
       <workItem from="1580408429580" duration="484000" />
       <workItem from="1580426025592" duration="562000" />
+      <workItem from="1580427941430" duration="3171000" />
+      <workItem from="1580432098580" duration="4049000" />
     </task>
     <servers />
   </component>
@@ -96,9 +108,10 @@
       <screen x="0" y="23" width="1440" height="781" />
     </state>
     <state x="575" y="187" key="run.anything.popup/0.23.1440.781@0.23.1440.781" timestamp="1578849795887" />
-    <state x="734" y="128" width="670" height="676" key="search.everywhere.popup" timestamp="1578849110414">
-      <screen x="0" y="23" width="1440" height="781" />
+    <state x="734" y="132" width="670" height="704" key="search.everywhere.popup" timestamp="1580430716422">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="734" y="128" width="670" height="676" key="search.everywhere.popup/0.23.1440.781@0.23.1440.781" timestamp="1578849110414" />
+    <state x="734" y="132" width="670" height="704" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1580430716422" />
   </component>
 </project>
