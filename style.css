@@ -1,59 +1,67 @@
-*{
+* {
     padding: 0;
     margin: 0;
-    font-family: Roboto,sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 /*global*/
-body{
-    margin:0% 15%
+body {
+    margin: 0% 15%
 }
-h1{
+
+h1 {
+    font-size: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+h4 {
     padding-top: 20px;
-    padding-bottom: 15px;
+
 }
-h4{
-    padding-top: 20px;
-}
-section{
+
+section {
     margin-left: 10%;
     width: 80%;
     border-collapse: collapse;
     padding-bottom: 20px;
     border-bottom: gray 3px solid;
 }
-table{
+
+table {
     border-collapse: collapse;
 }
-a{
+
+a {
     color: inherit;
     font: inherit;
 }
-#content{padding-top: 62px}
 
-
+#content {
+    padding-top: 62px
+}
 
 
 /*Header--Nav Bar*/
-#menu ul li a:hover,#menu ul li a.current
-{   color: #fff !important;
-    background:#E65100 !important; ;
-    }
+#menu ul li a:hover, #menu ul li a.current {
+    color: #fff !important;
+    background: #E65100 !important;;
+}
 
-header{
+header {
     position: fixed;
     z-index: 999;
     width: 70%;
     margin-top: -12px !important;
 
     height: 75px;
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
 
     text-decoration: none;
     box-shadow: 0px 2px 2px gray;
 }
 
-header > nav > ul > li > a{
+header > nav > ul > li > a {
     width: 100%;
     display: inline-block;
     line-height: 65px;
@@ -61,24 +69,24 @@ header > nav > ul > li > a{
     text-decoration: none !important;
 }
 
-header > nav > ul > li > a:link{
+header > nav > ul > li > a:link {
     color: #E65100 !important;
 }
 
-header > nav > ul > li > a:visited{
+header > nav > ul > li > a:visited {
     color: #E65100 !important;
 }
 
-header > nav > ul > li > a:hover{
+header > nav > ul > li > a:hover {
     color: #FFFFFF !important;
     background-color: #E65100;
 }
 
-header > nav > ul > li > a:active{
+header > nav > ul > li > a:active {
     color: #FFFFFF !important;
 }
 
-header > nav > ul > li{
+header > nav > ul > li {
     float: left;
     list-style: none;
     width: 25%;
@@ -88,131 +96,136 @@ header > nav > ul > li{
     color: #E65100;
 }
 
-header > nav > ul > li:active{
+header > nav > ul > li:active {
     color: #FFFFFF;
     background-color: #E65100;
 }
 
 
-
-
-
 /*Horse run lamp*/
-.hrl div div div img{
+.hrl div div div img {
     width: 100%;
 }
 
-.hrl{
+.hrl {
     margin-top: 2px;
     width: 100%;
-    /*height:  ;*/
 
-    background-color: rgba(243,243,243,255)
+    margin-bottom: 30px;
+
+    background-color: rgba(243, 243, 243, 255)
 }
-.hrl > img{
+
+.hrl > img {
     padding-top: 2px;
     padding-left: 10%;
     width: 80%;
 }
 
 
-
-
-
 /*Rooms and Facilities*/
-.T1{
+.T1 {
     border-collapse: collapse;
 }
-.T1  tr  td{
+
+.T1 tr td {
     font-size: 18px;
     width: 240px;
     line-height: 35px;
     text-align: left;
-    height: 40px;
+    height: 50px;
 }
-.T1  tr  td:nth-child(1){
+
+.T1 tr td:nth-child(1) {
     width: 60px;
 }
-.T2{
-    margin-left: 72px;
+
+.T2 {
+    margin-left: 80px;
     width: 100%;
 }
-.T2 tr td{
-    width: 25% ;
+
+.T2 tr td {
+    width: 25%;
     font-size: 18px;
     text-align: left;
 }
-.T2 tr td ul li{
+
+.T2 tr td ul li {
     height: 30px;
     line-height: 30px;
     list-style-image: url("Images/icons/ic_check.svg");
 }
 
 
-
-
 /*Member*/
-.Member table tr th{
+.Member table tr th {
     height: 50px;
     padding-bottom: 10px;
     border-bottom: gray 2px solid;
 }
-.Member table  tr td, .Member table  tr th{
+
+.Member table tr td, .Member table tr th {
     font-size: 18px;
     width: 240px;
     text-align: left;
     padding-top: 2px;
 }
-.Member table tr td:nth-child(1),.Member table tr th:nth-child(1){
+
+.Member table tr td:nth-child(1), .Member table tr th:nth-child(1) {
     width: 60px;
     padding-top: 2px;
 }
-.Member table tr:nth-child(2) td, .Member table tr:nth-child(3) td{
-    height: 35px;
+
+.Member table tr:nth-child(2) td, .Member table tr:nth-child(3) td {
+    height: 40px;
 }
+
 .Member table tr:nth-child(4) td {
-    padding-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     height: 40px;
 }
 
 
-
-
 /*Meal*/
-.meal table tr td{
+.meal table tr td {
     font-size: 18px;
-    height:50px;
+    height: 50px;
 }
-.meal table tr td ul li{
+
+.meal table tr td ul li {
     list-style: none;
 }
-.meal table tr td:nth-child(1){
+
+.meal table tr td:nth-child(1) {
     width: 60px;
     padding-top: 2px;
 }
-.meal table tr td:nth-child(2){
+
+.meal table tr td:nth-child(2) {
     width: 33%;
     padding-top: 2px;
 }
-.meal table tr td:nth-child(3){
+
+.meal table tr td:nth-child(3) {
     padding-top: 20px;
 }
 
-
-
 /*Other*/
-.other table tr td{
+.other table tr td {
     font-size: 18px;
-    height:50px;
+
 }
-.meal table tr td ul li{
+
+.meal table tr td ul li {
     list-style: none;
 }
-.other table tr td:nth-child(1){
-    width: 60px;
-    padding-top: 2px;
-}
 
+.other table tr td:nth-child(1) {
+    width: 60px;
+    height: 10px;
+}
 
 
 /*Comment*/
@@ -221,20 +234,22 @@ header > nav > ul > li:active{
 }
 
 
-
 /*review*/
-.review{
+.review {
     border-bottom: none;
-    width:80%
+    width: 80%
 }
-.review div h3{
-    line-height: 40px;
+
+.review div h3 {
+    line-height: 30px;
 }
-.review div h6{
-    font-weight:normal;
-    height: 40px;
+
+.review div h6 {
+    font-weight: normal;
+    line-height: 20px
 }
-.review div p{
-    line-height: 50px;
+
+.review div p {
+    margin-top: 10px;
 }
 
