@@ -154,7 +154,7 @@ header > nav > ul > li:active {
 .T2 tr td ul li {
     height: 30px;
     line-height: 30px;
-    list-style-image: url("Images/icons/ic_check.svg");
+    list-style-image: url("../Images/icons/ic_check.svg");
 }
 
 

@@ -1,0 +1,72 @@
+ul,li,ol {
+    list-style-type: none;
+}
+
+.left-click{
+    float: left;
+    width: 10%;
+    background-color: rgb(243,243,243);
+    cursor: pointer;
+    height: 37.3vw;
+    line-height: 37.3vw;
+    align-content: center;
+}
+
+.right-click{
+    float: left;
+    width: 10%;
+    background-color: rgb(243,243,243);
+    cursor: pointer;
+    height: 37.3vw;
+    line-height: 37.3vw;
+}
+
+.left-click img{
+    margin-left: 2vw;
+}
+
+.right-click img{
+    margin-left: 2vw;
+}
+
+
+
+.carousel ul{
+    height: 37.3vw;
+}
+
+
+.carousel ul li a img {
+    width: 100%;
+    margin-left: 0;
+    height: auto;
+    border: none;
+    display: block;
+
+}
+
+.carousel{
+    float: left;
+    position:relative;
+    overflow: hidden;
+    width: 80%;
+    height: 37.3vw;
+    overflow: hidden;
+}
+
+.carousel ul{
+    /*    the height of this section will be edited in JS part*/
+}
+
+.carousel ul li{
+    position: absolute;
+    width: 100%;
+    left:0;
+    top: 0;
+    -webkit-transform: translateX(300%);
+    transform: translateX(300%);
+}
+
+
+
+
